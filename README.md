@@ -68,7 +68,7 @@ Until a project paper is available, cite the repository:
 ```bibtex
 @misc{openspot2026,
   author       = {Yash Turkar and Yashom Dighe and Christo Aluckal and Travis Minor},
-  title        = {OpenSpot: Modular Payloads for Field Robotics},
+  title        = {OpenSpot},
   year         = {2026},
   howpublished = {\url{https://github.com/droneslab/OpenSpot}},
   note         = {Public alpha}
