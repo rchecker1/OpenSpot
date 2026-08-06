@@ -28,7 +28,7 @@ OpenSpot/
 └── LICENSES/              Component-specific licenses
 ```
 
-Start with the [hardware inventory](hardware/README.md), [network architecture](docs/networking.md), and [release status and roadmap](docs/roadmap.md).
+User-facing build documentation will live in the [OpenSpot Wiki](https://github.com/droneslab/OpenSpot/wiki), including CAD, 3D printing, assembly, electronics, networking, and Operator setup. The repository retains the [hardware inventory](hardware/README.md), [network architecture](docs/networking.md), and [release roadmap](docs/roadmap.md) alongside the source files.
 
 ## Reference configuration
 
