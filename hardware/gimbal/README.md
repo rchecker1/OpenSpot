@@ -18,6 +18,7 @@ These files are **alpha reference** artifacts, not a complete fabrication packag
 - Camera: FLIR Blackfly S (with lens)
 - Actuation: 2× Dynamixel XC330 smart servos (one pan, one pitch)
 
+<!--
 Exact part revisions, lens selection, cabling, servo controller, power protection, and mounting interface to the rest of the OpenSpot payload stack will be frozen with the first reproducible hardware release.
 
 ## Before fabrication
@@ -36,5 +37,5 @@ Exact part revisions, lens selection, cabling, servo controller, power protectio
 - Servo wiring, controller selection, and power budget for the gimbal subsystem.
 - Assembly photographs and torque guidance.
 - Mass, center-of-mass, and range-of-motion table for the assembled gimbal.
-
+-->
 Hardware files in this directory are licensed under CERN-OHL-W-2.0; see [`../../LICENSES/`](../../LICENSES/README.md).
